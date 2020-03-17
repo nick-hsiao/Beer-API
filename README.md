@@ -2,7 +2,7 @@
 simple rest api using java, springboot and mysql
 
 
-#Application.properties
+# Application.properties
 application.properties file is not provided because environment variables are not working.
 the template is below:
 
